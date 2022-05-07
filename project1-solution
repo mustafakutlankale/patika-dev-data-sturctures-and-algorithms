@@ -26,8 +26,9 @@ Solutions:
 4. Sıralı olduğu için hiçbir insertion yapmayacak, diğer elemanları kaydırmayacak. Dizi sıralı mı değil mi anlamak için diziyi dizinin uzunluğu kadar gezmesi yeterli.
    Bu yüzden Best case O(n) kapsamına girer.
    
+[7,3,5,8,2,9,4,15,6]
 [3,7,5,8,2,9,4,15,6]
 [3,5,7,8,2,9,4,15,6]
 [3,5,7,8,2,9,4,15,6]
-[2,3,5,7,8,9,4,15,6]
+
 
